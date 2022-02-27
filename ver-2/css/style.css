@@ -1,0 +1,512 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    outline-style: none;
+}
+
+#main {
+    background-image: url(../Images/header-bg.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 710px;
+}
+
+.fillter {
+    background-color: rgba(2, 11, 18, .8);
+    height: 710px;
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1140px;
+}
+
+.logo {
+    float: left;
+}
+
+.nav {
+    padding-top: 5px;
+    float: right;
+    margin-right: 17px;
+    margin-bottom: 30px;
+}
+
+header {
+    padding-top: 20px;
+}
+
+.nav ul li {
+    display: inline;
+}
+
+.nav ul li a {
+    text-decoration: none;
+    padding: 10px;
+    color: white;
+}
+
+.nav ul li a:hover {
+    background-color: hotpink;
+}
+
+.right {
+    width: 600px;
+    float: left;
+    margin-top: 100px;
+}
+
+.right p {
+    margin-bottom: 20px;
+    color: white;
+    text-transform: uppercase;
+}
+
+.rint {
+    color: white;
+    text-transform: uppercase;
+    background-color: rgba(249, 183, 0);
+    text-decoration: none;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.rint:hover {
+    background-color: #900;
+    color: white;
+}
+
+h2 {
+    color: white;
+    text-transform: uppercase;
+    font-size: 35px;
+    margin-bottom: 25px;
+}
+
+.prag {
+    width: 685px;
+    padding-bottom: 50px;
+}
+
+.left {
+    width: 470px;
+    border-style: solid;
+    border-width: thin;
+    border-color: rgb(68, 74, 91);
+    background-color: rgba(14, 21, 39, 0.5);
+    float: right;
+    margin-bottom: 67px;
+}
+
+form {
+    width: 330px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+label {
+    color: white;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+
+.type-car {
+    width: 330px;
+    height: 40px;
+    margin-top: 30px;
+    border-radius: 7px;
+    margin-bottom: 20px;
+}
+
+.pick-up {
+    width: 145px;
+    height: 40px;
+    border-radius: 7px;
+    margin-right: 22px;
+    padding-left: 10px;
+    margin-bottom: 20px;
+}
+
+.date {
+    width: 145px;
+    height: 40px;
+    border-radius: 7px;
+    padding-left: 10px;
+    margin-bottom: 20px;
+}
+
+.abc {
+    width: 330px;
+    height: 40px;
+    border-radius: 7px;
+    margin-bottom: 20px;
+}
+
+.sumit {
+    width: 330px;
+    height: 40px;
+    border-radius: 7px;
+    text-align: center;
+    color: white;
+    background-color: rgb(249, 183, 0);
+    margin-bottom: 45px;
+}
+
+.sumit:hover {
+    background-color: #900;
+}
+
+.services,
+.services2 {
+    width: 1140px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.h2 {
+    padding-top: 30px;
+    text-align: center;
+    color: black;
+}
+
+.p {
+    text-align: center;
+    padding-top: 25px;
+    font-size: 18px;
+    margin-bottom: 45px;
+    color: rgb(172, 175, 181);
+}
+
+div article {
+    width: 28%;
+    background-color: aliceblue;
+    padding: 10px;
+    float: left;
+    margin: 13px;
+    margin-bottom: 42px;
+    padding-top: 45px;
+    border-radius: 8px;
+    padding-bottom: 35px;
+}
+
+div article p {
+    text-align: center;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-align: justify;
+    color: rgb(172, 175, 181);
+}
+
+.ar1 {
+    float: left;
+    margin-right: 35px;
+}
+
+.ar3 {
+    float: right;
+}
+
+.car {
+    width: 600px;
+    float: left;
+    margin-left: 10px;
+    margin-top: 100px;
+}
+
+.text {
+    width: 500px;
+    float: right;
+    margin-top: 110px;
+}
+
+h1 {
+    font-size: 50px;
+    padding: 40px 0 0 20px;
+}
+
+.h4 {
+    padding: 40px 0 0 25px;
+    font-size: 17px;
+}
+
+.h4-2 {
+    padding: 40px 5px 0 21px;
+    font-size: 17px;
+    text-align: justify;
+    margin-bottom: 30px;
+}
+
+.link2 {
+    color: white;
+    text-transform: uppercase;
+    background-color: rgba(249, 183, 0);
+    text-decoration: none;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-left: 35px;
+}
+
+.link2:hover {
+    background-color: #900;
+}
+
+.model {
+    margin-top: 130px;
+    width: 1140px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.h3-3 {
+    text-align: center;
+    font-size: 40px;
+}
+
+.p-3 {
+    text-align: center;
+    color: rgb(172, 175, 181);
+    margin-bottom: 100px;
+}
+
+.l-car {
+    width: 480px;
+    float: right;
+    margin-right: 55px;
+}
+
+.ri-text {
+    width: 480px;
+    float: left;
+    margin-left: 60px;
+}
+
+.sec-5 {
+    background: url();
+}
+
+.mo {
+    width: 50%;
+    font-size: 18px;
+    float: left;
+}
+
+span {
+    float: right;
+    margin-right: 20px;
+    font-size: 30px;
+    color: rgb(253, 184, 1);
+    margin-bottom: 30px;
+}
+
+.mos {
+    margin-bottom: 25px;
+    color: rgb(172, 175, 181);
+}
+
+.moss {
+    color: rgb(172, 175, 181);
+    margin-bottom: 25px;
+}
+
+.boo {
+    color: white;
+    text-transform: uppercase;
+    background-color: rgba(34, 34, 34);
+    text-decoration: none;
+    padding-top: 13px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 22px;
+}
+
+.boo:hover {
+    background-color: hotpink;
+}
+
+.squr {
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 50px;
+    width: 100px;
+}
+
+.squr .sp1 {
+    width: 10px;
+    height: 10px;
+    background-color: rgb(253, 184, 1);
+    ;
+}
+
+.squr .sp2,
+.sp3 {
+    width: 10px;
+    height: 10px;
+    background-color: rgb(172, 175, 181);
+}
+
+#sec-5 {
+    background: linear-gradient(rgba(55, 58, 73, .6), rgba(55, 58, 73, .6)), url(../Images/callaction-bg.jpg);
+    background-repeat: no-repeat;
+    margin-top: 65px;
+    height: 400px;
+}
+
+.sec-5 {
+    width: 1140px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 130px;
+}
+
+#sec-5 .sec-5 h2 {
+    text-align: center;
+    color: white;
+}
+
+#sec-5 .sec-5 p {
+    text-align: center;
+    color: rgb(172, 175, 181);
+    margin-bottom: 100px;
+}
+
+#sec-5 .sec-5 a {
+    padding: 10px 35px;
+    color: rgb(253, 184, 1);
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgb(253, 184, 1);
+    text-decoration: none;
+    margin-left: 500px;
+}
+
+#sec-5 .sec-5 a:hover {
+    background-color: #900;
+}
+
+.sec-6 {
+    width: 1140px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 400px;
+    margin-top: 60px;
+}
+
+#sec-6 .sec-6 h3 {
+    text-align: center;
+    font-size: 30px;
+}
+
+#sec-6 .sec-6 .p0 {
+    padding-top: 25px;
+    text-align: center;
+    color: rgb(172, 175, 181);
+}
+
+.imag-sec6 figure {
+    width: 240px;
+    height: 200px;
+    background-color: aliceblue;
+    float: left;
+    margin: 15px;
+    margin-left: 30px;
+    margin-top: 70px;
+}
+
+.imag-sec6 figure .p1 {
+    width: 100px;
+    background-color: black;
+    color: rgb(172, 175, 181);
+    padding: 5px 0;
+    margin-top: 10px;
+}
+
+.imag-sec6 figure .p2 {
+    padding-top: 20px;
+    font-size: 25px;
+}
+
+.imag-sec6 figure .p3 {
+    padding-top: 10px;
+    color: rgb(172, 175, 181);
+    padding-bottom: 28px;
+}
+
+.like {
+    width: 40%;
+    float: left;
+    color: rgb(172, 175, 181);
+}
+
+.comment {
+    width: 40%;
+    float: left;
+    padding-left: 40px;
+    color: rgb(172, 175, 181);
+}
+
+.sec-7 {
+    margin-top: 225px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1140px;
+    background-color: rgb(4, 9, 29);
+    padding-bottom: 50px;
+}
+
+.art1,
+.art2,
+.art3,
+.art4,
+.art5,
+.art6 {
+    width: 187px;
+    padding: 5px;
+    float: left;
+    margin-top: 150px;
+    background-color: rgb(4, 9, 29)
+}
+
+#sec-7 .sec-7 h3 {
+    color: white;
+    padding-bottom: 17px;
+    font-size: 25px;
+}
+
+#sec-7 .sec-7 p {
+    color: rgb(172, 175, 181);
+}
+
+.social-footr img {
+    width: 22px;
+    float: left;
+    padding: 10px;
+    padding-bottom: 80px;
+}
+
+.art5 input {
+    width: 150px;
+    height: 25px;
+}
+
+.art5 button img {
+    width: 20px;
+    height: 20px;
+    background-color: rgb(253, 184, 1);
+    border-color: rgb(253, 184, 1);
+}
+
+.art5 button,
+input {
+    margin-bottom: 80px;
+}
+
+.perpar {
+    text-align: center;
+    color: rgb(172, 175, 181);
+}
